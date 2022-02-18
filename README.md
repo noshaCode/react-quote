@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+API
+You'll be using a simple API (https://talaikis.com/api/quotes/random/), every time you call it will generate a new quote, no key required.
+
+
+
+Note: if the previous API doesn't work, use this API: https://api.forismatic.com/api/1.0/?method=getQuote&format=jsonp&lang=en&jsonp=?
+
+or: https://quote-garden.herokuapp.com/api/v3/quotes/random
